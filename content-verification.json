@@ -1,0 +1,496 @@
+{
+  "source": "Best healthcare services in the United Kingdom _ RealMeds.zip",
+  "contentBlocks": 81,
+  "matched": 81,
+  "cssUnchanged": true,
+  "metadataTitle": true,
+  "metadataDescription": true,
+  "blocks": [
+    {
+      "sourceBlock": 4,
+      "type": "h1",
+      "text": "Best healthcare services in the United Kingdom | RealMeds",
+      "present": true
+    },
+    {
+      "sourceBlock": 5,
+      "type": "p",
+      "text": "Accessing reliable healthcare services in the UK can sometimes feel confusing, especially when you need clear information about treatment options, medicines, and available support. Busy schedules and difficulty finding trustworthy health resources can make it harder to understand your healthcare needs.",
+      "present": true
+    },
+    {
+      "sourceBlock": 6,
+      "type": "p",
+      "text": "RealMeds aims to make healthcare information easier to access by providing helpful medicines and guidance to support informed decisions. Our goal is to help people better understand their options and find relevant healthcare information with greater confidence.",
+      "present": true
+    },
+    {
+      "sourceBlock": 7,
+      "type": "p",
+      "text": "Talk with Our Pharmacist",
+      "present": true
+    },
+    {
+      "sourceBlock": 8,
+      "type": "h2",
+      "text": "Our available medicines",
+      "present": true
+    },
+    {
+      "sourceBlock": 9,
+      "type": "p",
+      "text": "RealMeds provides healthcare information across a range of health conditions to help you better understand your needs and available options. Explore our healthcare categories to find relevant information and support for your well-being.",
+      "present": true
+    },
+    {
+      "sourceBlock": 10,
+      "type": "h3",
+      "text": "Anxiety and Panic Disorder",
+      "present": true
+    },
+    {
+      "sourceBlock": 11,
+      "type": "p",
+      "text": "Explore information about anxiety, panic disorders, and seizure-related healthcare.",
+      "present": true
+    },
+    {
+      "sourceBlock": 12,
+      "type": "h3",
+      "text": "Seizures",
+      "present": true
+    },
+    {
+      "sourceBlock": 13,
+      "type": "p",
+      "text": "Learn about seizure-related conditions and the importance of appropriate medical care.",
+      "present": true
+    },
+    {
+      "sourceBlock": 14,
+      "type": "h3",
+      "text": "Nerve Pain",
+      "present": true
+    },
+    {
+      "sourceBlock": 15,
+      "type": "p",
+      "text": "Explore information about nerve-related pain and available treatment options.",
+      "present": true
+    },
+    {
+      "sourceBlock": 16,
+      "type": "h3",
+      "text": "ADHD & Stimulants",
+      "present": true
+    },
+    {
+      "sourceBlock": 17,
+      "type": "p",
+      "text": "Learn about ADHD and the healthcare options used to manage its symptoms.",
+      "present": true
+    },
+    {
+      "sourceBlock": 18,
+      "type": "h3",
+      "text": "Sleep & Sedatives",
+      "present": true
+    },
+    {
+      "sourceBlock": 19,
+      "type": "p",
+      "text": "Find information about sleep difficulties and treatments used for sleep-related conditions.",
+      "present": true
+    },
+    {
+      "sourceBlock": 20,
+      "type": "h3",
+      "text": "Painkillers",
+      "present": true
+    },
+    {
+      "sourceBlock": 21,
+      "type": "p",
+      "text": "Understand different approaches to pain relief and pain management.",
+      "present": true
+    },
+    {
+      "sourceBlock": 22,
+      "type": "h3",
+      "text": "Digestive Health",
+      "present": true
+    },
+    {
+      "sourceBlock": 23,
+      "type": "p",
+      "text": "Explore information about common digestive problems and available treatment options.",
+      "present": true
+    },
+    {
+      "sourceBlock": 24,
+      "type": "h3",
+      "text": "Allergy-Related",
+      "present": true
+    },
+    {
+      "sourceBlock": 25,
+      "type": "p",
+      "text": "Learn about common allergies, their symptoms, and ways to manage them.",
+      "present": true
+    },
+    {
+      "sourceBlock": 26,
+      "type": "h3",
+      "text": "Skincare",
+      "present": true
+    },
+    {
+      "sourceBlock": 27,
+      "type": "p",
+      "text": "Discover information about common skin concerns and suitable skincare approaches.",
+      "present": true
+    },
+    {
+      "sourceBlock": 28,
+      "type": "p",
+      "text": "Call Our Pharmacist",
+      "present": true
+    },
+    {
+      "sourceBlock": 29,
+      "type": "h2",
+      "text": "Healthcare information by RealMeds",
+      "present": true
+    },
+    {
+      "sourceBlock": 30,
+      "type": "p",
+      "text": "RealMeds provides helpful healthcare information to help you understand common health conditions, treatment options, and healthcare services in the UK. Our informations includes:",
+      "present": true
+    },
+    {
+      "sourceBlock": 31,
+      "type": "h3",
+      "text": "NHS Healthcare",
+      "present": true
+    },
+    {
+      "sourceBlock": 32,
+      "type": "p",
+      "text": "Learn about the National Health Service (NHS) and the healthcare services available across the UK.",
+      "present": true
+    },
+    {
+      "sourceBlock": 33,
+      "type": "h3",
+      "text": "Medicines Information",
+      "present": true
+    },
+    {
+      "sourceBlock": 34,
+      "type": "p",
+      "text": "Learn about medicine uses, potential side effects, and the importance of following professional medical advice.",
+      "present": true
+    },
+    {
+      "sourceBlock": 35,
+      "type": "h3",
+      "text": "Online Healthcare",
+      "present": true
+    },
+    {
+      "sourceBlock": 36,
+      "type": "p",
+      "text": "Discover how digital healthcare services can help people access health information and support.",
+      "present": true
+    },
+    {
+      "sourceBlock": 37,
+      "type": "h3",
+      "text": "Mental Health Support",
+      "present": true
+    },
+    {
+      "sourceBlock": 38,
+      "type": "p",
+      "text": "Find information about mental health conditions and available support services.",
+      "present": true
+    },
+    {
+      "sourceBlock": 39,
+      "type": "h3",
+      "text": "Patient Rights",
+      "present": true
+    },
+    {
+      "sourceBlock": 40,
+      "type": "p",
+      "text": "Understand patient confidentiality, informed consent, and access to healthcare information.",
+      "present": true
+    },
+    {
+      "sourceBlock": 41,
+      "type": "p",
+      "text": "Learn More About Healthcare",
+      "present": true
+    },
+    {
+      "sourceBlock": 42,
+      "type": "h2",
+      "text": "Health guidance by RealMeds",
+      "present": true
+    },
+    {
+      "sourceBlock": 43,
+      "type": "p",
+      "text": "Making informed healthcare decisions starts with understanding your health and knowing where to find reliable information. RealMeds offers general health guidance to help you learn about common health concerns, healthy habits, and available healthcare support.",
+      "present": true
+    },
+    {
+      "sourceBlock": 44,
+      "type": "h3",
+      "text": "Understanding Human Body",
+      "present": true
+    },
+    {
+      "sourceBlock": 45,
+      "type": "p",
+      "text": "Learn about common health conditions, their symptoms, and when to seek medical advice.",
+      "present": true
+    },
+    {
+      "sourceBlock": 46,
+      "type": "h3",
+      "text": "Medicine Safety",
+      "present": true
+    },
+    {
+      "sourceBlock": 47,
+      "type": "p",
+      "text": "Understand the importance of correct medicine use, potential side effects, and professional guidance.",
+      "present": true
+    },
+    {
+      "sourceBlock": 48,
+      "type": "h3",
+      "text": "Healthy Lifestyle",
+      "present": true
+    },
+    {
+      "sourceBlock": 49,
+      "type": "p",
+      "text": "Explore practical guidance on balanced nutrition, physical activity, sleep, and daily wellness.",
+      "present": true
+    },
+    {
+      "sourceBlock": 50,
+      "type": "h3",
+      "text": "Mental Health Awareness",
+      "present": true
+    },
+    {
+      "sourceBlock": 51,
+      "type": "p",
+      "text": "Find general information about stress, anxiety, emotional well-being, and available support.",
+      "present": true
+    },
+    {
+      "sourceBlock": 52,
+      "type": "h3",
+      "text": "Allergy Awareness",
+      "present": true
+    },
+    {
+      "sourceBlock": 53,
+      "type": "p",
+      "text": "Learn about common allergic reactions, potential triggers, and when to seek medical help.",
+      "present": true
+    },
+    {
+      "sourceBlock": 54,
+      "type": "p",
+      "text": "Call for Guidence",
+      "present": true
+    },
+    {
+      "sourceBlock": 55,
+      "type": "h3",
+      "text": "Benefits of online medicines services",
+      "present": true
+    },
+    {
+      "sourceBlock": 56,
+      "type": "p",
+      "text": "Online medicine services make it easier for people across the UK to access pharmacy information and manage medicine-related needs. They can save time, reduce unnecessary trips, and offer convenient access to healthcare support.",
+      "present": true
+    },
+    {
+      "sourceBlock": 57,
+      "type": "li",
+      "text": "Convenience at Home: Access pharmacy services online without always needing to visit a physical pharmacy.",
+      "present": true
+    },
+    {
+      "sourceBlock": 58,
+      "type": "li",
+      "text": "Time-Saving Service: Save time by managing eligible prescriptions and medicine requests online.",
+      "present": true
+    },
+    {
+      "sourceBlock": 59,
+      "type": "li",
+      "text": "Access to Medicine Information: Read useful information about medicines, their uses, and potential side effects.",
+      "present": true
+    },
+    {
+      "sourceBlock": 60,
+      "type": "li",
+      "text": "Greater Accessibility: Online services can help people with busy schedules or limited mobility access pharmacy support.",
+      "present": true
+    },
+    {
+      "sourceBlock": 61,
+      "type": "li",
+      "text": "Privacy and Confidentiality: Discuss sensitive health concerns through appropriate, secure services while protecting personal information.",
+      "present": true
+    },
+    {
+      "sourceBlock": 62,
+      "type": "h3",
+      "text": "Why should you choose RealMeds for medicines and guidance?",
+      "present": true
+    },
+    {
+      "sourceBlock": 63,
+      "type": "p",
+      "text": "RealMeds aims to make healthcare information easier to understand and access. We focus on providing helpful guidance so you can make informed decisions about your health.",
+      "present": true
+    },
+    {
+      "sourceBlock": 64,
+      "type": "li",
+      "text": "Clear Health Information: Understand common health conditions and available treatment options.",
+      "present": true
+    },
+    {
+      "sourceBlock": 65,
+      "type": "li",
+      "text": "Easy Online Access: Find healthcare information conveniently from home.",
+      "present": true
+    },
+    {
+      "sourceBlock": 66,
+      "type": "li",
+      "text": "Medicine Guidance: Learn about medicine uses, precautions, and potential side effects.",
+      "present": true
+    },
+    {
+      "sourceBlock": 67,
+      "type": "li",
+      "text": "Privacy and Confidentiality: We value the importance of protecting your personal information.",
+      "present": true
+    },
+    {
+      "sourceBlock": 68,
+      "type": "li",
+      "text": "Responsible Healthcare Support: We encourage safe medicine use and consultation with qualified healthcare professionals.",
+      "present": true
+    },
+    {
+      "sourceBlock": 69,
+      "type": "p",
+      "text": "Chat with Us",
+      "present": true
+    },
+    {
+      "sourceBlock": 70,
+      "type": "h2",
+      "text": "FAQs about online medicines and healthcare services",
+      "present": true
+    },
+    {
+      "sourceBlock": 71,
+      "type": "h3",
+      "text": "What are online medicine services?",
+      "present": true
+    },
+    {
+      "sourceBlock": 72,
+      "type": "p",
+      "text": "Online medicine services allow people to access medicine information, pharmacy support, and eligible prescription services through websites or digital platforms.",
+      "present": true
+    },
+    {
+      "sourceBlock": 73,
+      "type": "h3",
+      "text": "Are online medicine services safe in the UK?",
+      "present": true
+    },
+    {
+      "sourceBlock": 74,
+      "type": "p",
+      "text": "They can be safe when you use legitimate, appropriately registered providers. Check the provider's registration with the relevant UK regulator and avoid websites selling prescription medicines without a valid prescription.",
+      "present": true
+    },
+    {
+      "sourceBlock": 75,
+      "type": "h3",
+      "text": "Can I buy prescription medicines online in the UK?",
+      "present": true
+    },
+    {
+      "sourceBlock": 76,
+      "type": "p",
+      "text": "Yes, prescription medicines can be supplied online when the applicable legal requirements are met. Some medicines require a prescription from an authorised prescriber before they can be dispensed.",
+      "present": true
+    },
+    {
+      "sourceBlock": 77,
+      "type": "h3",
+      "text": "Can I get healthcare guidance online?",
+      "present": true
+    },
+    {
+      "sourceBlock": 78,
+      "type": "p",
+      "text": "Yes, online services can provide general health information, medicine guidance, and information about available healthcare options. However, online information does not replace professional medical advice or diagnosis.",
+      "present": true
+    },
+    {
+      "sourceBlock": 79,
+      "type": "h3",
+      "text": "How can I check whether an online pharmacy is legitimate?",
+      "present": true
+    },
+    {
+      "sourceBlock": 80,
+      "type": "p",
+      "text": "Check the provider's registration with the appropriate regulator, such as the General Pharmaceutical Council (GPhC) in Great Britain or the Pharmaceutical Society of Northern Ireland (PSNI) in Northern Ireland.",
+      "present": true
+    },
+    {
+      "sourceBlock": 81,
+      "type": "h3",
+      "text": "Can online healthcare services help me understand medicine side effects?",
+      "present": true
+    },
+    {
+      "sourceBlock": 82,
+      "type": "p",
+      "text": "Yes, reputable healthcare resources can explain common side effects, precautions, and interactions. Always read the patient information leaflet and consult a pharmacist or prescriber if you have concerns.",
+      "present": true
+    },
+    {
+      "sourceBlock": 83,
+      "type": "h3",
+      "text": "When should I seek medical help instead of using online healthcare services?",
+      "present": true
+    },
+    {
+      "sourceBlock": 84,
+      "type": "p",
+      "text": "Seek urgent medical advice if your symptoms are worsening or concerning. In England, you can contact NHS 111 for urgent medical guidance; call 999 for a life-threatening emergency. Different NHS arrangements apply in Scotland, Wales, and Northern Ireland.",
+      "present": true
+    }
+  ]
+}

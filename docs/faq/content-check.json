@@ -1,0 +1,21 @@
+{
+  "questions": [
+    "What are online medicine services?",
+    "Are online medicine services safe in the UK?",
+    "Can I buy prescription medicines online in the UK?",
+    "Can I get healthcare guidance online?",
+    "How can I check whether an online pharmacy is legitimate?",
+    "Can online healthcare services help me understand medicine side effects?",
+    "When should I seek medical help instead of using online healthcare services?"
+  ],
+  "answers": [
+    "Online medicine services allow people to access medicine information, pharmacy support, and eligible prescription services through websites or digital platforms.",
+    "They can be safe when you use legitimate, appropriately registered providers. Check the provider's registration with the relevant UK regulator and avoid websites selling prescription medicines without a valid prescription.",
+    "Yes, prescription medicines can be supplied online when the applicable legal requirements are met. Some medicines require a prescription from an authorised prescriber before they can be dispensed.",
+    "Yes, online services can provide general health information, medicine guidance, and information about available healthcare options. However, online information does not replace professional medical advice or diagnosis.",
+    "Check the provider's registration with the appropriate regulator, such as the General Pharmaceutical Council (GPhC) in Great Britain or the Pharmaceutical Society of Northern Ireland (PSNI) in Northern Ireland.",
+    "Yes, reputable healthcare resources can explain common side effects, precautions, and interactions. Always read the patient information leaflet and consult a pharmacist or prescriber if you have concerns.",
+    "Seek urgent medical advice if your symptoms are worsening or concerning. In England, you can contact NHS 111 for urgent medical guidance; call 999 for a life-threatening emergency. Different NHS arrangements apply in Scotland, Wales, and Northern Ireland."
+  ],
+  "nonFaqHtmlUnchanged": true
+}
